@@ -6,3 +6,4 @@ aioredis==1.2.0
 aioredis-lock>=0.0.3
 prometheus_client==0.7.1
 discord.py
+dnspython==2.0.0
